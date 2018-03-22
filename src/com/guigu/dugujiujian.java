@@ -8,5 +8,8 @@ public class dugujiujian {
 		System.out.println("444444444444");
 		System.out.println("555555555555");
 		System.out.println("666666666666");
+		System.out.println("AAAAAA");
+		System.out.println("BBBBBB");	
+		System.out.println("YYYYYY");
 	}
 }
